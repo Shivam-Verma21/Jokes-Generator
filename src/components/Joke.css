@@ -1,0 +1,27 @@
+
+
+.joke-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  background-color: #52af3e;
+  color: #ebefbc;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+p {
+  color: #ebefbc;
+  font-size: 18px;
+  margin-top: 20px;
+  /* padding-left: 20px; */
+}
